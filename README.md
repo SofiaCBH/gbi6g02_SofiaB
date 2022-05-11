@@ -14,3 +14,4 @@
 ## EJECUCIÓN
 
 En este repositorio se tiene almacenado las tareas, la data y los examenes de la clase de Bioinformática
+Uso de GitHub Desktop para control de la versión
